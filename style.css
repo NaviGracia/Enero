@@ -1,0 +1,40 @@
+header.gener{
+    font-weight: bold;
+    text-align: center;
+    font-size: 200%;
+}
+
+div{
+    display: inline-block;
+}
+div.groc{
+    height: 1.5cm;
+    min-width: 33%;
+    background-color: yellow;
+}
+
+div.blau{
+    height: 1.5cm;
+    min-width: 33%;
+    background-color: blue;
+}
+
+div.roig{
+    height: 1.5cm;
+    min-width: 33%;
+    background-color: red;
+}
+
+section{
+    display: inline-block;
+}
+
+footer{
+    background-color: yellow;
+}
+
+div.verd{
+    height: 3cm;
+    width: 100%;
+    background-color: green;
+}
