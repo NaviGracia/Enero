@@ -30,6 +30,7 @@ section{
 }
 
 footer{
+    width: 100%;
     background-color: yellow;
     text-align: center;
 }
@@ -41,5 +42,6 @@ div.verd{
 }
 
 p.estudiar{
+    width: 100%;
     text-align: center;
 }
