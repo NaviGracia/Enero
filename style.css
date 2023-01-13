@@ -31,10 +31,15 @@ section{
 
 footer{
     background-color: yellow;
+    text-align: center;
 }
 
 div.verd{
     height: 3cm;
     width: 100%;
     background-color: green;
+}
+
+p.estudiar{
+    text-align: center;
 }
